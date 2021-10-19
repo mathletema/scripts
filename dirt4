@@ -1,0 +1,3 @@
+#!/bin/bash
+
+wine "/home/ishank/.wine/drive_c/Program Files/DiRT 4/dirt4.exe"
